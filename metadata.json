@@ -1,0 +1,6 @@
+{
+  "name": "ElevateBox Voice Sales Agent & OmniDimension Hub",
+  "description": "Autonomous AI outbound voice sales agent with OmniDimension telephony integration, real-time intent classification (HOT/WARM/COLD), mid-call WhatsApp trigger, natural language callback scheduling, and full audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
